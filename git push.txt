@@ -1,0 +1,5 @@
+cd "%USERPROFILE%\Downloads\meu-projeto-goverlite"
+git add .
+git commit -m "Primeiro commit do GoverLite"
+git branch -M main
+git push -u origin main
